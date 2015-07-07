@@ -73,7 +73,7 @@
                 
                 <h1>Linux Lover</h1>
                 
-                <p>Student at Walchand College Of Enginnering, Sangli Department Of Information Technology.</p>
+                <p>Student at Walchand College Of Engineering, Sangli Department Of Information Technology.</p>
                 
                 <div class="page-scroll">
                     <a href="#profile" class="btn btn-lg btn-custom">
@@ -100,7 +100,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 
-                <a class="navbar-brand visible-xs visible-sm" href="#page-top">BERG</a>
+                <a class="navbar-brand visible-xs visible-sm" href="#page-top"></a>
             </div>
             <!-- //.navbar-header -->
             
@@ -155,18 +155,18 @@
                                     <h2 class="section-title uppercase">Hello, My Name is Akshay Patil.</h2>
 
                                     <p>
-                                        Akshay Patil, 21 years young, born 
-and grew up in Osmanabad. Highly motivated creative 
+                                        Akshay Patil, 21 years old, born 
+and grew up in Osmanabad. Highly motivated, creative 
 developer.
                                     </p>
 
                                     <span class="divider"></span>
 
                                     <p style="opacity: 0;" class="text-grey">
-                                        I currently working on a "Cloud Computing(OpenStack)"in this we are working on cloud for providing softwre as a service to the students.                                  </p>
+                                        I currently working on a "Cloud Computing (OpenStack)" in this we are working on cloud for providing softwre as a service to the students.                                  </p> 
 
                                     <p style="opacity: 0;" class="text-grey">
-                                       Also Worked on projects like "TOR Nemtwork" studied Cryptography and encrytion algorithms. Also implemented Dijastras algorithm for college map using "QT-Creator"
+                                       Also Worked on projects like "TOR Network" studied Cryptography and encrytion algorithms. Also implemented Dijkstra's algorithm for college map using "QT-Creator"
                                     </p>
                                 </div>
                                 <!-- //.col-md-12 -->
@@ -184,7 +184,7 @@ developer.
                                     <ul class="list-unstyled text-grey">
                                         <li>Akshay Patil</li>
                                         <li>At.Rui Tq.Dist.Osmanabad.</li>
-                                        <li>+91 9175562117</li>
+                                        <li>+91-9175562117</li>
                                         <li>patilakshaya999@gmail.com</li>
                                        
                                     </ul>
@@ -235,7 +235,7 @@ developer.
                         <span class="divider center"></span>
 		<p><h3>1) Created Website for an book shoopy using Web Technology and also implemented online ordering for the book shoppy.</h3></p>
 		<p><h3>2) Implemented project on "Tor Network" using NS2 tool used for visualization of computer network concepts.</h3></p>
-		<p><h3>3) "Walchand Navigator" using C++ and QT_creator tool.In this project we have implemented the Dijastras Algorithm for college map.</h3></p>
+		<p><h3>3) "Walchand Navigator" using C++ and QT_creator tool.In this project we have implemented the Dijkstra's Algorithm for college map.</h3></p>
 		<p><h3>4) Animation on Working of GPS("Global Positioning System") using Blender 3D Animation tool.</h3></p>
 
 
@@ -431,7 +431,7 @@ developer.
                                 <div class="panel">
                                     <div class="panel-heading">
                                         <div class="panel-title">
-                                            <h4 class="resume-title">Walchand College Of Enginnnering, Sangli</h4>
+                                            <h4 class="resume-title">Walchand College Of Engineering, Sangli</h4>
                                         </div>
                                         <!-- //.panel-title -->
                                     </div>
